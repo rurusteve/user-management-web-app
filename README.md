@@ -15,7 +15,7 @@
     and running on your local machine for development and testing purposes. 
     See deployment for notes on how to deploy the project on a live system.
 
-<img src={ERD}></img>
+![ERD](https://user-images.githubusercontent.com/26330890/114459622-f6411b00-9c0a-11eb-9ff8-e0e6de46a247.png)
 
 ## 3. Running The Backend
 
