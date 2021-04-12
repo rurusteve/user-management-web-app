@@ -108,14 +108,6 @@ with the following packages installed on your system:
 
 - **Node.js (npm)**
 Refer to https://www.npmjs.com/get-npm for installation method.
-- **PHP Composer v1.9.1**
-
-Using Homebrew: brew install composer
-Or refer to https://getcomposer.org/download/ for other installation method.
-
-- **Laravel v8.9.0 (No installation required)**
-
-- **PostgreSQL v12.4**
 
 ### Installing
 
