@@ -36,16 +36,17 @@ Or refer to https://getcomposer.org/download/ for other installation method.
 
 - **PostgreSQL v12.4**
 
-Using Homebrew:
+    Using Homebrew:
 
-Update and Upgrade homebrew
-brew doctor
-brew update
+        Update and Upgrade homebrew
+        brew doctor
+        brew update
 
-Install PostgreSQL
-brew install postgresql
+    Install PostgreSQL
+    
+        brew install postgresql
 
-Or refer to https://www.postgresql.org/download/ for other installation method.
+    Or refer to https://www.postgresql.org/download/ for other installation method.
 
 You can use User Management API.postman_collection.json to test the API
 which is stored in the **Postman Folder**
